@@ -25,13 +25,31 @@ Welcome to my GitHub profile! I'm a passionate data engineer and software develo
 
 I'm committed to leveraging technology to solve complex problems and drive innovation. Whether it's through optimizing data systems or developing user-centric applications, I aim to make a meaningful impact in every project I undertake.
 
-### 🤝 **Let's Connect**
 
-I'm always open to collaborating on exciting projects or discussing ideas:
+### 🔥 **GitHub Streak**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreylehokoG&theme=tokyonight)](https://github.com/godfreylehokoG)
+
+### 🚀 **Activity Graph**
+
+[![Godfrey's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=tokyo-night)](https://github.com/godfreylehokoG)
+
+### 💼 **Skills and Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### 🤝 **Let's Connect**
 
 - **Email**: [lehoko.lg@gmail.com](mailto:lehoko.lg@gmail.com)
 - **LinkedIn**: [linkedin.com/in/lehlohonolo-lehoko](https://www.linkedin.com/in/lehlohonolo-lehoko)
 - **GitHub**: [github.com/godfreylehokoG](https://github.com/godfreylehokoG)
+
+![Profile Views](https://komarev.com/ghpvc/?username=godfreylehokoG&color=blue)
+
 
 
 
