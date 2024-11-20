@@ -59,7 +59,7 @@ I'm committed to leveraging technology to solve complex problems and drive innov
 
 [![Godfrey's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=tokyo-night)](https://github.com/godfreylehokoG)
 
-![Godfrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfreylehokoG&show_icons=true&theme=radical)
+![(https://github-readme-stats.vercel.app/api?username=godfreylehokoG&show_icons=true&theme=radical)
 
 
 
