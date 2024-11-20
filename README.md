@@ -41,8 +41,6 @@ I'm always open to collaborating on exciting projects or discussing ideas:
 
 ![Godfrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfreylehokoG&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godfreylehokoG&layout=compact&theme=radical)
-
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreylehokoG&theme=dark)
