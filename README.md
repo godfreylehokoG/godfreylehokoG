@@ -61,7 +61,7 @@ I'm committed to leveraging technology to solve complex problems and drive innov
 
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreylehokoG&theme=dark)
+
 
 <!---
 godfreylehokoG/godfreylehokoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
