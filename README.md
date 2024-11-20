@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm a passionate data engineer and software develo
 - **Data Warehouse Optimization**: Led a project that reduced data processing time by 70% through ETL pipeline optimization and automation.
 - **Nebular Ride-Sharing App**: Created a ride-sharing platform focused on safety and comfort for women, utilizing geolocation and real-time tracking technologies.
 
+
+
 ### 💡 **My Mission**
 
 I'm committed to leveraging technology to solve complex problems and drive innovation. Whether it's through optimizing data systems or developing user-centric applications, I aim to make a meaningful impact in every project I undertake.
@@ -30,6 +32,20 @@ I'm always open to collaborating on exciting projects or discussing ideas:
 - **Email**: [lehoko.lg@gmail.com](mailto:lehoko.lg@gmail.com)
 - **LinkedIn**: [linkedin.com/in/lehlohonolo-lehoko](https://www.linkedin.com/in/lehlohonolo-lehoko)
 - **GitHub**: [github.com/godfreylehokoG](https://github.com/godfreylehokoG)
+
+
+
+## 🚀 GitHub Stats
+
+[![Godfrey's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=tokyo-night)](https://github.com/godfreylehokoG)
+
+![Godfrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfreylehokoG&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godfreylehokoG&layout=compact&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreylehokoG&theme=dark)
 
 <!---
 godfreylehokoG/godfreylehokoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
