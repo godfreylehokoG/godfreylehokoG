@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Godfrey Lehoko
 
-## Data Engineer | Software Developer | Tech Enthusiast
+## Data Engineer | Software Engineer | Tech Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate data engineer and software developer with over four years of experience in building robust data solutions and applications. My journey in technology is driven by a fascination with how data can transform businesses and empower decision-making.
 
@@ -52,14 +52,6 @@ I'm committed to leveraging technology to solve complex problems and drive innov
 
 ![Profile Views](https://komarev.com/ghpvc/?username=godfreylehokoG&color=blue)
 
-
-
-
-## 🚀 GitHub Stats
-
-[![Godfrey's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godfreylehokoG&theme=tokyo-night)](https://github.com/godfreylehokoG)
-
-![(https://github-readme-stats.vercel.app/api?username=godfreylehokoG&show_icons=true&theme=radical)
 
 
 
