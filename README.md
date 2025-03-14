@@ -38,6 +38,7 @@ I'm committed to leveraging technology to solve complex problems and drive innov
 
 ### 💼 **Skills and Tools**
 
+![C](https://img.shields.io/badge/progamming-3776AB?style=flat&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
